@@ -17,6 +17,7 @@
 
 ### Vamos nos conectar!
 💼 LinkedIn: https://www.linkedin.com/in/luiz-filipe-martins/
+🎓 Credly: https://www.credly.com/users/luiz-filipe/badges
 
 ### Trocar ideias!
 Estou sempre em busca de aprender mais e compartilhar conhecimento com a comunidade. Fique à vontade para entrar em contato e vamos trocar ideias sobre DevOps, Cloud Computing, Automações, e tudo mais que envolva tecnologia! 😄
