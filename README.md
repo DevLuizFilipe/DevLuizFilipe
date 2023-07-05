@@ -4,7 +4,7 @@
 
 ### Sobre mim:
 
-- 🔧 Tenho 3 anos de experiência na área de DevOps, trabalhando com diversas ferramentas e tecnologias como: Linux, AWS, GCP, Kubernetes, Zabbix, Grafana, GitLab, Ansible, Git e metodologias ágeis.
+- 🔧 Tenho 3 anos de experiência na área de DevOps, trabalhando com diversas ferramentas e tecnologias como: Linux, Redes, Docker, Terraform, AWS , GCP, GitLab, Ansible, Kubernetes, Metodologias Ágeis, Helm, ArgoCD, Jenkins, New Relic, Zabbix, Prometheus, Grafana, Git.
 - 📚 Atualmente estudo Sistemas de Informação, e moro em Goiânia.
 - 🎓 Possuo as certificações AWS Certified Solutions Architect - Associate AWS Certified Cloud Practitioner e AWS Migration Ambassador Foundations (Business) 2022.
 
