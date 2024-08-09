@@ -1,6 +1,6 @@
 # Olá, me chamo Luiz Filipe! 👋
 
-## Tenho 21 anos e sou um DevOps Engineer apaixonado por tecnologia! 💻
+## Sou DevOps Engineer apaixonado por tecnologia! 💻
 
 ### Sobre mim:
 
